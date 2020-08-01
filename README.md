@@ -43,7 +43,7 @@ master 主线版本（8.x）为主力开发版本，激进的朋友可以选择�
 
 | 微信好友 | 支付宝好友 |
 | :------: | :------: |
-| <img src="https://cdn.it120.cc/apifactory/2019/07/03/a86f7e46-1dbc-42fe-9495-65403659671e.jpeg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/07/03/fda59aeb-4943-4379-93bb-92856740bd6a.jpeg" width="200px"> |
+| <img src="https://cdn.it120.cc/apifactory/2019/07/03/1a86f7e46-1dbc-42fe-9495-65403659671e.jpeg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/07/03/1fda59aeb-4943-4379-93bb-92856740bd6a.jpeg" width="200px"> |
 
 ## 本项目使用了下面的组件，在此鸣谢
 
